@@ -26,8 +26,8 @@
     </table>
 </div>
 
-| 表格      | 第一列     | 第二列     |
+|文件名|脚本名|by作者|链接|
 | ---------- | :-----------:  | :-----------: |
-| 第一行     | 第一列     | 第二列     |
+| jd_zoo.js|动物联萌|BY:yangtingxiao|https://github.com/yangtingxiao/QuantumultX/blob/master/scripts/jd/jd_zoo.js|
 | ---------- | :-----------:  | :-----------: |
 | 第一行     | 第一列     | 第二列     |
