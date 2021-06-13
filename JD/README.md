@@ -3,7 +3,7 @@
     |-- jd_zoo.js#         # 动物联萌 BY:yangtingxiao  https://github.com/yangtingxiao/QuantumultX/blob/master/scripts/jd/jd_zoo.js  2021年6月13日                  
     |-- jd_zoo.js          # 动物联萌 BY:star261       https://github.com/star261/jd/tree/main/scripts                               2021年6月13日
     |-- jd_zooCollect.js   # 动物联萌，专门收集金币     BY:star261                                                                    2021年6月13日
-    |-- jd_zooMap.js       # 动物联萌，只做图鉴里的店铺任务     BY:star261                                                            2021年6月13日
+    |-- jd_zooMap.js       # 动物联萌，只做图鉴里的店铺任务     BY:star261                                                             2021年6月13日
     |-- README.md
     
     
