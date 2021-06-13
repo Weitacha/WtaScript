@@ -2,9 +2,11 @@
     JD-Script/JD
     |-- jd_zoo.js#         # 动物联萌 BY:yangtingxiao  https://github.com/yangtingxiao/QuantumultX/blob/master/scripts/jd/jd_zoo.js                           
     |-- jd_zoo.js          # 动物联萌 BY:star261       https://github.com/star261/jd/tree/main/scripts
-    |-- jd_zooCollect.js   # 618动物联萌专门收集金币 BY:star261
-    |-- jd_zooMap.js       # 618动物联萌，只做图鉴里的店铺任务 BY:star261
+    |-- jd_zooCollect.js   # 动物联萌，专门收集金币     BY:star261
+    |-- jd_zooMap.js       # 动物联萌，只做图鉴里的店铺任务     BY:star261
     |-- README.md
+    
+    
     1.动物联萌 BY:yangtingxiao 偷取助力/无助力设置 禁用中
 
 
