@@ -22,7 +22,7 @@
 	    <td>动物联萌</td>
 		  <td>BY:yangtingxiao</td>
 			<td>2021年6月13日</td>
-		  <td>https://github.com/yangtingxiao/QuantumultX/blob/master/scripts/jd/jd_zoo.js</td>
+		  <td>github.com/yangtingxiao/QuantumultX/blob/master/scripts/jd/jd_zoo.js</td>
 	  </tr>
     </table>
 </div>
