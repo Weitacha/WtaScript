@@ -11,12 +11,17 @@
 <div>
     <table border="0">
 	  <tr>
-	    <th>one</th>
-	    <th>two</th>
+	    <th>文件名</th>
+	    <th>脚本名</th>
+		<th>by作者</th>
+		<th>链接</th>
 	  </tr>
 	  <tr>
-	    <td>Hello</td>
-	    <td>你好</td>
+	    <td>jd_zoo.js</td>
+	    <td>动物联萌</td>
+		<td>BY:yangtingxiao</td>
+		<td>https://github.com/yangtingxiao/QuantumultX/blob/master/scripts/jd/jd_zoo.js</td>
+		<td></td>
 	  </tr>
     </table>
 </div>
