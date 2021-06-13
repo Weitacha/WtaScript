@@ -5,9 +5,10 @@
     |-- jd_zooCollect.js   # 618动物联萌专门收集金币 BY:star261
     |-- jd_zooMap.js       # 618动物联萌，只做图鉴里的店铺任务 BY:star261
     |-- README.md
+    1.动物联萌 BY:yangtingxiao 偷取助力/无助力设置 禁用中
 
 
-1.动物联萌 BY:yangtingxiao 偷取助力/无助力设置 禁用中
+
 
 
 <div>
