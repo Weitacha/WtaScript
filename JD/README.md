@@ -21,7 +21,6 @@
 	    <td>动物联萌</td>
 		<td>BY:yangtingxiao</td>
 		<td>https://github.com/yangtingxiao/QuantumultX/blob/master/scripts/jd/jd_zoo.js</td>
-		<td></td>
 	  </tr>
     </table>
 </div>
