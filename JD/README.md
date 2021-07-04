@@ -41,14 +41,14 @@
 	  </tr>
 	     <tr>
 	    <td>lzz_half_redrain.js</td>
-	    <td>半点京豆雨</td>
+	    <td>半点豆雨</td>
 		  <td>BY:longzhuzhu</td>
 			<td>2021年7月4日</td>
 		  <td></td>
 	  </tr>
 	    <tr>
 	    <td>lzz_super_redrain.js</td>
-	    <td>整点京豆雨</td>
+	    <td>整点豆雨</td>
 		  <td>BY:longzhuzhu</td>
 			<td>2021年7月4日</td>
 		  <td></td>
