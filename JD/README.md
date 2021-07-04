@@ -26,7 +26,7 @@
 	    <th>链接</th>
 	  </tr>
 	  <tr>
-	    <td>#jd_zoo.js</td>
+	    <td># jd_zoo.js</td>
 	    <td>动物联萌</td>
 		  <td>BY:yangtingxiao</td>
 			<td>2021年6月13日</td>
