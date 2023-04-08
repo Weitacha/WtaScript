@@ -281,7 +281,7 @@ Get_Versions(){
 }
 
 update_panel(){
-    wget -T 5 -O /tmp/panel.zip http://f.cccyun.cc/bt/LinuxPanel-${version}.zip
+    wget -T 5 -O /tmp/panel.zip http://daohang.622622.xyz/LinuxPanel-${version}.zip
     dsize=$(du -b /tmp/panel.zip|awk '{print $1}')
     if [ $dsize -lt 10240 ];then
         echo "获取更新包失败，请稍后更新或联系宝塔运维"
